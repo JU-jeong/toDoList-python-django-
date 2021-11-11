@@ -3,17 +3,7 @@
 
 https://github.com/JU-jeong/toDoList-python-django-.git
 
-동기 페이지 
-비동기 페이지
-사람이 협업을 할때 문체나 글의 스타일을 맞추듯이 블랙을 써볼거고요 pylint를 적용을 해보겠습니다
-파이썬은 python.org에서 설치 가능
-명령 프롬프트로 가서
-윈도우 powershell
-
 python manage.py runserver
-
-
-
 =마치 톰캣의 run on server와 같음
 
 오류 1. 
