@@ -19,7 +19,17 @@ git fata : unable to create 'C:/todolist/.git/index.lock':
 would you like code to periodically run git fetch
 
 
+------------------------------------------------
 
+
+211111
+
+url routing  사용자가 접근한 URI에 따라서 controller의 메소드를 호출해주는 기능이다. 
+
+기능을 추가하고 싶다 -> views.py 
+from django.views.generic.edit import ->기능명추가
+
+기본 crud 기능 완성 영상보고 동작과정 복기해야함
 
 
 
